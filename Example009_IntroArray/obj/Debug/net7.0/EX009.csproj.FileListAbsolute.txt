@@ -1,0 +1,15 @@
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\EX009.csproj.AssemblyReference.cache
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\EX009.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\EX009.AssemblyInfoInputs.cache
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\EX009.AssemblyInfo.cs
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\EX009.csproj.CoreCompileInputs.cache
+G:\GB\C#\Лекция 2\Example009_IntroArray\bin\Debug\net7.0\EX009.exe
+G:\GB\C#\Лекция 2\Example009_IntroArray\bin\Debug\net7.0\EX009.deps.json
+G:\GB\C#\Лекция 2\Example009_IntroArray\bin\Debug\net7.0\EX009.runtimeconfig.json
+G:\GB\C#\Лекция 2\Example009_IntroArray\bin\Debug\net7.0\EX009.dll
+G:\GB\C#\Лекция 2\Example009_IntroArray\bin\Debug\net7.0\EX009.pdb
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\EX009.dll
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\refint\EX009.dll
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\EX009.pdb
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\EX009.genruntimeconfig.cache
+G:\GB\C#\Лекция 2\Example009_IntroArray\obj\Debug\net7.0\ref\EX009.dll

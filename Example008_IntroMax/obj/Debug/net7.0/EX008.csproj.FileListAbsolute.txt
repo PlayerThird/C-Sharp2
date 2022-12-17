@@ -1,0 +1,15 @@
+G:\GB\C#\Лекция 2\EX008\bin\Debug\net7.0\EX008.exe
+G:\GB\C#\Лекция 2\EX008\bin\Debug\net7.0\EX008.deps.json
+G:\GB\C#\Лекция 2\EX008\bin\Debug\net7.0\EX008.runtimeconfig.json
+G:\GB\C#\Лекция 2\EX008\bin\Debug\net7.0\EX008.dll
+G:\GB\C#\Лекция 2\EX008\bin\Debug\net7.0\EX008.pdb
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\EX008.csproj.AssemblyReference.cache
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\EX008.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\EX008.AssemblyInfoInputs.cache
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\EX008.AssemblyInfo.cs
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\EX008.csproj.CoreCompileInputs.cache
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\EX008.dll
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\refint\EX008.dll
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\EX008.pdb
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\EX008.genruntimeconfig.cache
+G:\GB\C#\Лекция 2\EX008\obj\Debug\net7.0\ref\EX008.dll
