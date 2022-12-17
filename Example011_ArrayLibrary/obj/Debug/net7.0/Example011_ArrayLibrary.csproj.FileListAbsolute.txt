@@ -1,0 +1,15 @@
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.exe
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.deps.json
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.runtimeconfig.json
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.dll
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.pdb
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.AssemblyInfo.cs
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.dll
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\refint\Example011_ArrayLibrary.dll
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.pdb
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.genruntimeconfig.cache
+G:\GB\C#\Лекция 2\Example011_ArrayLibrary\obj\Debug\net7.0\ref\Example011_ArrayLibrary.dll
